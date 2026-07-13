@@ -10,6 +10,6 @@ Download the Geneziz desktop app here. A license key (purchased at [geneziz.app]
 
 > macOS build is unsigned (Gatekeeper will prompt on first open — right-click → Open → confirm). See `docs/NOTARIZATION-GUIDE.md` in the main repo for signed/notarized builds.
 
-SHA-256 (`Geneziz_1.9.60_aarch64.dmg`): `887ab2511ac0a95ee1c2f01c8277d495111c54d03a6efd3cb95b243d354d1741`
+SHA-256 (`Geneziz_1.9.60_aarch64.dmg`): `7fcd6e0aaf12aca915b12eec5a381611cc1b90ba95e53c187d809dcbca8f7c6e`
 
 [View all releases →](https://github.com/willbnu/geneziz-download/releases)
