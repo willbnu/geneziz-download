@@ -8,8 +8,8 @@ Learn more at [geneziz.app](https://geneziz.app).
 
 | Platform | File | SHA-256 |
 |---|---|---|
-| macOS (Apple Silicon, macOS 12+) | [`Geneziz_1.14.21_aarch64.dmg`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.21/Geneziz_1.14.21_aarch64.dmg) | `35004f27a329d0005cc4374a2ffc275999360cb635adec6cc84e3980a84ac88c` |
-| Windows (10/11 x64) | [`Geneziz_1.14.21_x64-setup.exe`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.21/Geneziz_1.14.21_x64-setup.exe) | `` |
+| macOS (Apple Silicon, macOS 12+) | [`Geneziz_1.14.21_aarch64.dmg`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.21/Geneziz_1.14.21_aarch64.dmg) | `4d35d8e7f4ab6a96c1bea5608ef310bf8c5cff1930d085e3019bc09e81bc6030` |
+| Windows (10/11 x64) | [`Geneziz_1.14.21_x64-setup.exe`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.21/Geneziz_1.14.21_x64-setup.exe) | `f6a0e05798584e887df959e70ac20d01dc1e8ff04f5a8b064f6fe2ce5fe26240` |
 
 Both installers are signed; the macOS build is notarized with Apple. The in-app updater
 delivers new versions automatically — after install, you are always current.
