@@ -4,12 +4,12 @@ The official download repository for the **Geneziz** desktop app — a local-fir
 engine that turns your saves and web captures into a private, searchable knowledge base.
 Learn more at [geneziz.app](https://geneziz.app).
 
-## Current release — v1.14.22
+## Current release — v1.14.23
 
 | Platform | File | SHA-256 |
 |---|---|---|
-| macOS (Apple Silicon, macOS 12+) | [`Geneziz_1.14.22_aarch64.dmg`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.22/Geneziz_1.14.22_aarch64.dmg) | `dfdf33bfc17cbe98c1d81a6d90c900f3eb73611d30fc76b81177f295ed63a982` |
-| Windows (10/11 x64) | [`Geneziz_1.14.22_x64-setup.exe`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.22/Geneziz_1.14.22_x64-setup.exe) | _pending — added automatically when the Windows build publishes_ |
+| macOS (Apple Silicon, macOS 12+) | [`Geneziz_1.14.23_aarch64.dmg`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.23/Geneziz_1.14.23_aarch64.dmg) | `652be843e8247e5a70a6caf637ce79939243c88655e30dc5fe58bb3ff9290470` |
+| Windows (10/11 x64) | [`Geneziz_1.14.23_x64-setup.exe`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.23/Geneziz_1.14.23_x64-setup.exe) | _pending — added automatically when the Windows build publishes_ |
 
 Both installers are signed; the macOS build is notarized with Apple. The in-app updater
 delivers new versions automatically — after install, you are always current.
@@ -24,8 +24,8 @@ Your knowledge base lives on your device.
 Compare the file's SHA-256 against the table above:
 
 ```sh
-shasum -a 256 Geneziz_1.14.22_aarch64.dmg   # macOS
-certutil -hashfile Geneziz_1.14.22_x64-setup.exe SHA256   # Windows
+shasum -a 256 Geneziz_1.14.23_aarch64.dmg   # macOS
+certutil -hashfile Geneziz_1.14.23_x64-setup.exe SHA256   # Windows
 ```
 
 ## Security
