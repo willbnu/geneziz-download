@@ -9,7 +9,7 @@ Learn more at [geneziz.app](https://geneziz.app).
 | Platform | File | SHA-256 |
 |---|---|---|
 | macOS (Apple Silicon, macOS 12+) | [`Geneziz_1.14.28_aarch64.dmg`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.28/Geneziz_1.14.28_aarch64.dmg) | `f796d9f8eb5dacc4b504090e926b01ad0e49cfebcc3af2128f9f8f8760e289c4` |
-| Windows (10/11 x64) | [`Geneziz_1.14.28_x64-setup.exe`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.28/Geneziz_1.14.28_x64-setup.exe) | `d75243d70b8c719c4efa68a3237fc95426212cfdd981b0f63dea081cced4a162` |
+| Windows (10/11 x64) | [`Geneziz_1.14.28_x64-setup.exe`](https://github.com/willbnu/geneziz-download/releases/download/v1.14.28/Geneziz_1.14.28_x64-setup.exe) | `276bf41adffd372c2fa1b44d47b4a8d4b8f99f1fb9f929c1b4d3d84baca876f7` |
 
 Both installers are signed; the macOS build is notarized with Apple. The in-app updater
 delivers new versions automatically — after install, you are always current.
